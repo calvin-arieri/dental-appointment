@@ -1,13 +1,13 @@
 const Booking =() =>{
     return <div>
-    <h1>Welcome to doctor blogs </h1>
-        <nav >
-            <a href="www.youtube.com">Home</a> <br />
-            <a href="www.moringaschool.com">About</a><br />
-            <a href="http://www.youtube.com" target="_blank" rel="noopener noreferrer">Footer</a> <br />
-            <a href="props.com">Add appointment</a><br />
-            
-        </nav>
+
+    <nav>
+        <a href="www.youtube.com">home</a> <br />
+        <a href="www.moringaschool.com">About</a><br />
+        <a href="http://www.youtube.com" target="_blank" rel="noopener noreferrer">footer</a> <br />
+        <a href="props.com">add appointment</a><br />
+        
+    </nav>
     </div>
 }
 

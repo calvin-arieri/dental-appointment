@@ -1,5 +1,5 @@
 .App{
-  background-color: #04AA6D;
+  background-color:lightgray;
   padding: 10px;
   height: 20%;
 }
@@ -40,6 +40,7 @@ nav a.active {
 }
 #footer{
   position: relative;
+  font-size: large;
   
   width: 100%;
 }
@@ -52,5 +53,12 @@ nav a.active {
   justify-content: left;
   align-items: center;
   padding: 1rem;
-  background-color: cornflowerblue;
+  background-color: grey;
+}
+a{
+  color: #aa9a9a;
+  text-decoration: none;
+}
+a:hover {
+  color: white;
 }
