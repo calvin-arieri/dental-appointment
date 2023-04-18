@@ -1,7 +1,7 @@
 const Blogs = (props) =>{
     return <div>
         <h1>Welcome to doctor blogs </h1>
-        <main>
+        
             <div className="card">
                 <h2>It is important for one to take care of there teeth since teeth lost cannot be replaced. </h2>
                 <em>Please brush your teeth and visit the doctor reguraly.</em>
@@ -25,7 +25,7 @@ const Blogs = (props) =>{
                 <h2>Visit your dentist at least once a year.  </h2>
                 <em>Even if you have no natural teeth or have dentures.</em>
             </div>
-        </main>
+        
     </div>
 }
 
