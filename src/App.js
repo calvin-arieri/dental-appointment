@@ -1,10 +1,9 @@
-import logo from './logo.svg';
-import './App.css';
+import Booking from './components/appointment'
 
 function App() {
   return (
     <div className="App">
-
+      <Booking/>
     </div>
   );
 }
