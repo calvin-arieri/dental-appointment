@@ -19,10 +19,9 @@ const Blogs = () =>{
                 <em>If dry mouth cannot be avoided, drink plenty of water, chew sugarless gum, and avoid tobacco products and alcohol. </em>
             </div>
             <div className="card">
-                <h2>Visit your dentist at least once a year, even if you have no natural teeth or have dentures. </h2>
-                <em></em>
+                <h2>Visit your dentist at least once a year.  </h2>
+                <em>Even if you have no natural teeth or have dentures.</em>
             </div>
-
         </main>
     </div>
 }
