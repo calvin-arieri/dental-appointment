@@ -7,7 +7,7 @@ function App() {
   return (
     <div className="App">
       <Booking   />
-      <Blogs  date="2"  time="7.40"  doctor="calvin"/>
+      <Blogs  date="2"  time="7.40"  doctor="Calvin"/>
       <Footer />
     </div>
   );
