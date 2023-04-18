@@ -1,0 +1,64 @@
+.App{
+  background-color:lightgray;
+  padding: 10px;
+  height: 20%;
+}
+
+nav {
+  overflow: hidden;
+  background-color: #333;
+}
+
+nav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+nav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+nav a.active {
+  background-color: #04AA6D;
+  color: white;
+}
+#flex{
+  display: flex;
+  background-color: #333;
+  color:white;
+}
+#important, #map{
+  margin-left: 25%;
+}
+#contacts{
+  margin-left: 2%;
+}
+#footer{
+  position: relative;
+  font-size: large;
+  
+  width: 100%;
+}
+
+.card {
+  margin: 1rem;
+  display: inline-table;
+  width: 25%;
+  flex-direction: column;
+  justify-content: left;
+  align-items: center;
+  padding: 1rem;
+  background-color: grey;
+}
+a{
+  color: #aa9a9a;
+  text-decoration: none;
+}
+a:hover {
+  color: white;
+}
