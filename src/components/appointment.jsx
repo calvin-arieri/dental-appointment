@@ -1,4 +1,4 @@
-const Booking =() =>{
+const Booking =(props) =>{
     return <div>
 
     <nav>
@@ -6,22 +6,16 @@ const Booking =() =>{
         <a href="www.moringaschool.com">About</a>
         <a href="http://www.youtube.com" target="_blank" rel="noopener noreferrer">footer</a>
         <a href="props.com" onClick={function(){
-            prompt("enter your name:")
-            prompt("enter date")
-        }}>add appointment</a>
-        
-    </nav>
+            const name = prompt("enter your name:")
+            const date = prompt("enter date")
+            
+        }}>add appointment ${props.User}</a>
+       
+        </nav>
     </div>
 
-function EmojiButton(props) {
-    console.log(props)
-    return (
-      <button>
-        <span role="img">{props.emoji}</span>
-        {props.labelText}
-      </button>
-    )
-  }
 }
+
+
 
 export default Booking;
