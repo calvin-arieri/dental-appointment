@@ -22,14 +22,6 @@ const Blogs = () =>{
                 <h2>Visit your dentist at least once a year.  </h2>
                 <em>Even if you have no natural teeth or have dentures.</em>
             </div>
-<<<<<<< HEAD
-            <div className="card">
-                <h2>When acting as a caregiver, help older individuals brush.</h2>
-                <em>Floss their teeth if they are not able to perform these activities independently. </em>
-            </div>
-=======
-
->>>>>>> 8a2ffbacb1fca75897fe2c555e48d27e9307f84a
         </main>
     </div>
 }
