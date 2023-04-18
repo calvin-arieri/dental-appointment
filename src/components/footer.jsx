@@ -14,7 +14,7 @@ const Footer = () => {
             <div id="important">
                 Here are important links<br /><br />
                 <a href="www.youtube.com">Home</a><br />
-                <a href="www.moringaschool.com">About</a>
+                <a href="www.moringaschool.com">About</a><br></br>
                 <a href="http://www.youtube.com" target="_blank" rel="noopener noreferrer">Footer</a><br />
                 <a href="props.com">Add appointment</a> <br />         
 
